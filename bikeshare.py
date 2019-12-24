@@ -1,4 +1,4 @@
-import pandas as pd
+﻿import pandas as pd
 import numpy as np
 import time
 
@@ -67,7 +67,8 @@ def filtro_mes():
     
     return mes
 
-# crea el filtro por día teniendo en cuenta la información de la base.
+# Crea el filtro por día teniendo en cuenta la información de la base.
+
 def filtro_dia():
     """Solicita al usuario que espesifique el día (número)"""
     while True:
