@@ -1,7 +1,25 @@
-Este proyecto tiene como finalidad aprender a crear, modificar y gestionar repositorios locales y remotos por medio de Git y GitHub.
+Date created
 
-Adicionalmente se aprendió a consultar las modificaciones que se hacían sobre los archivos y crear ramas para manejar
-varias versiones en las cuales se pueden hacer modificaciones sin riesgos de dañar los archivos originales.
+Monday 23 Dic 2019
 
-El conocimiento adquirido se utiliza para crear un repositorio en GitHub en donde se publica los archivos de proyectos anteriores.
+Project Title
 
+Version control
+
+Description
+
+This project aims to learn to create, modify and manage local and remote repositories through Git and GitHub.
+Additionally, it was learned to consult the modifications made to the archives and create branches to handle
+several versions in which modifications can be made without risk of damaging the original files.
+The knowledge acquired is used to create a repository on GitHub where the archives of previous projects are published.
+
+Files used
+
+Bikeshare.py
+chicago.csv
+New_york_city.csv
+Washintong.csv
+
+
+Credits
+Course Nanodegree - Udacity 2019
